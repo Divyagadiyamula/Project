@@ -1,5 +1,6 @@
-*{
-    background-color: black;
+body{
+    background-image: url(./bg.jpg);
+    background-repeat: no-repeat;
 }
 img{
     width: 250px;
@@ -7,12 +8,39 @@ img{
     padding-bottom: 300px;
 }
 .sign{
-    border: 2px solid white;
+   background-color: black;
+    font-size: x-large;
     width: 30%;
-    height: 300px;
+    height: 600px;
     color: white;
-    position: relative;
     text-align: center;
-    padding-top: 50px;
-    margin-right: 500px;
+    margin: auto;
+    margin-top: -300px;
+    padding-top: 80px;
+}
+.form-control1{
+    background-color:white;
+
+}
+.form-control2{
+    background-color: white;
+    margin-left: 135px;
+
+}
+.btn {
+    background-color: red;
+    width: 350px;
+    font-size: xx-large;
+}
+.form-labe2{
+    
+ 
+}
+.hello{
+    margin: auto;
+    padding-top: 100px;
+}
+.up{
+    margin-left: 1
+    50px;
 }
